@@ -51,9 +51,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/rfid_preview1.jpg" alt="RFID Preview 1" width="300"/>
-  &nbsp;&nbsp;
-  <img src="images/rfid_preview2.jpg" alt="RFID Preview 2" width="300"/>
+  <img src="images/image.png" alt="RFID Preview 1" width="800"/>
 </p>
 
 ---
